@@ -55,6 +55,7 @@ KeyHacks shows ways in which particular API keys found on a Bug Bounty Program c
 - [Instagram Graph API](#Instagram-Graph-Api-Access-Token)
 - [Ipstack API Key](#Ipstack-API-Key)
 - [Iterable API Key](#Iterable-API-Key)
+- [Jumio API Key](#Jumio-API-Key)
 - [JumpCloud API Key](#JumpCloud-API-Key)
 - [Keen.io API Key](#Keenio-API-Key)
 - [LinkedIn OAUTH](#LinkedIn-OAUTH)
